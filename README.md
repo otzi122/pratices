@@ -1,0 +1,2 @@
+# pratices
+platzi
